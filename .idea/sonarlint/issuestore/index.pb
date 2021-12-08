@@ -1,0 +1,19 @@
+
+O
+recognition/static/css/main.css,4\c\4c9da6408a1dd6cbb6a579b3e98bea9619e16123
+O
+recognition/static/js/script.js,0\3\03a3a8bda5fed18e2a8ef9b9e18c6207b1c9937f
+]
+-recognition/templates/recognition/result.html,2\b\2bd58e3f23eb627d195b8a630a7f3b456605a959
+]
+-recognition/templates/recognition/upload.html,9\c\9ce193281bfe31b6c147c2407d9705735be0f528
+R
+"recognition/migrations/__init__.py,2\6\261c944182d68ca8b4220be5c26df9c8ba75cd63
+G
+recognition/__init__.py,4\2\423179554bd135d1058b19a46a555b844bbc3d0d
+D
+recognition/admin.py,9\2\925c4df54c7a72e6dbed93450a3bdbafe2bfc5cc
+H
+animal_recog/__init__.py,d\5\d5254766052f25b3cd576db5c15c3c332e77fa27
+D
+animal_recog/asgi.py,e\b\ebe3d0293ee3a4d12300c02907f758dd165c5956
